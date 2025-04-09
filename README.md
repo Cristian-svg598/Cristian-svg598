@@ -33,8 +33,8 @@ Soy un programador **Full Stack** apasionado por el desarrollo de aplicaciones w
 ## 📬 Contáctame
 Si te gustaría colaborar en algún proyecto, o si tienes alguna pregunta o sugerencia, no dudes en contactarme. Estoy siempre abierto a nuevas ideas y desafíos.
 
-- GitHub: [Tu GitHub](https://github.com/Cristian-svg598))
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/cristian-guirao-espin-5b5a77310/)
+- GitHub: https://github.com/Cristian-svg598
+- LinkedIn: https://www.linkedin.com/in/cristian-guirao-espin-5b5a77310/
 - Correo: criguies@gmail.com
 
 ---
